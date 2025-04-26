@@ -1,0 +1,192 @@
+body {
+      margin: 0;
+      font-family: 'Poppins', sans-serif;
+      background: linear-gradient(skyblue,skyblue , skyblue , skyblue , skyblue , skyblue);
+      color: #ba0404;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      min-height: 100vh;
+    }
+
+    #wrapper {
+      width: 100%;
+      max-width: 1200px;
+      text-align: center;
+    }
+
+    #title {
+      font-size: 40px;
+      font-weight: bolder;
+      margin: 20px 0;
+      color: #3003fc;
+    }
+
+    #video-container {
+      position: relative;
+      width: 100%;
+      margin-bottom: 20px;
+      aspect-ratio: 16 / 9;
+    }
+
+    video, iframe {
+      width: 100%;
+      height: 100%;
+      border-radius: 10px;
+      box-shadow: 0 4px 50px rgba(0, 0, 0, 0.7);
+      z-index: 2;
+      position: relative;
+      display: none;
+    }
+
+    .category {
+      margin: 15pxpx 0;
+    }
+
+    .category-title {
+      font-size: 20px;
+      font-weight: bolder;
+      margin: 10px 0;
+      text-align: left;
+      padding-left: 10px;
+    }
+
+    .channel-slider-wrapper {
+      position: relative;
+      display: flex;
+      align-items: center;
+    }
+
+    .channel-slider {
+      display: flex;
+      overflow-x: auto;
+      gap: 10px;
+      padding: 5px;
+      scroll-behavior: smooth;
+      flex-grow: 1;
+    }
+
+    .channel-slider::-webkit-scrollbar {
+      height: 2px;
+    }
+
+    .channel-slider::-webkit-scrollbar-thumb {
+      background: #3003fc;
+      border-radius: 4px;
+    }
+
+    .arrow-button {
+      background: 0;
+      color: blue;
+      border: none;
+      padding: 15px;
+      cursor: pointer;
+      z-index: 10;
+      font-size: 24px;
+      border-radius: 50%;
+      box-shadow: 0 4px 10px rgba(0, 0, 0, 0.5);
+    }
+
+    .arrow-left {
+      margin-right: 10px;
+    }
+
+    .arrow-right {
+      margin-left: 10px;
+    }
+
+    .channel-card {
+      flex: 0 0 auto;
+      width: 80px;
+      background: #0000FF;
+      border-radius: 8px;
+      text-align: center;
+      padding: 10px;
+      cursor: pointer;
+      transition: transform 0.2s;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: space-between;
+      height: 90px;
+    }
+
+    .channel-card:hover {
+      transform: scale(1.05);
+    }
+
+    .channel-logo {
+      width: 50px;
+      height: 50px;
+      object-fit: contain;
+      border-radius: 10px;
+    }
+
+    .channel-name {
+      font-size: 12px;
+      font-weight: bold;
+      color: #8a0303;
+      text-align: center;
+      white-space: nowrap;
+      overflow: hidden;
+      text-overflow: ellipsis;
+      width: 100%;
+    }
+
+    #footer {
+      margin-top: 50px;
+      font-size: 10px;
+      font-weight: bolder;
+      color: #8a0303;
+      margin-bottom: 20px;
+    }
+
+    #footer a {
+      color: #03a819;
+      text-decoration: none;
+    }
+
+    #footer a:hover {
+      text-decoration: underline;
+    }
+
+.bottom-nav {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  display: flex;
+  justify-content: space-around;
+  background-color: #10013d; /* Dark background */
+  padding: 5px;
+  border-top: 2px solid #333; /* Darker border for contrast */
+  z-index: 1000;
+  transition: background-color 0.3s ease-in-out;
+}
+
+.nav-item {
+  color: #07ded7; /* Light gray text for better contrast */
+  text-align: center;
+  text-decoration: none;
+  font-size: 14px;
+  flex-grow: 1;
+  transition: color 0.3s ease-in-out, transform 0.3s ease-in-out, text-shadow 0.3s ease-in-out; /* Added text-shadow transition */
+  position: relative;
+}
+
+.nav-item i {
+  display: block;
+  font-size: 18px;
+  margin-bottom: 5px;
+  transition: transform 0.2s cubic-bezier(0.68, -0.55, 0.27, 1.55); /* Smooth bounce effect */
+}
+
+.nav-item:hover {
+  color: #a80306; /* Change color to normal white on hover */
+  transform: scale(1.1);
+  text-shadow: 0 0 8px rgba(255, 255, 255, 0.8), 0 0 16px rgba(255, 255, 255, 0.6); /* Normal white glow effect */
+}
+
+.nav-item:hover i {
+  transform: scale(1.4); /* Enlarge the icon */
+}
