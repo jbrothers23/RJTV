@@ -34,7 +34,7 @@ document.addEventListener('DOMContentLoaded', function() {
 		const widthThreshold = window.outerWidth - window.innerWidth > threshold;
 		const heightThreshold = window.outerHeight - window.innerHeight > threshold;
 		if (widthThreshold || heightThreshold) {
-			window.location.href = 'https://cignalplaytv.vercel.app/'
+			window.location.href = 'https://rjtvmorante.netlify.app/'
 		}
 	};
 	devtools();
