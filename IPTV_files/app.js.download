@@ -57,7 +57,8 @@ document.addEventListener('DOMContentLoaded', function() {
 	const streams = {
 		gma: {
 			name: 'GMA',
-			manifestUri: 'http://143.44.136.110:6910/001/2/ch00000090990000001093/manifest.mpd?virtualDomain=001.live_hls.zte.com',
+			manifestUri: 'https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-abscbn-gma-x7-dash-abscbnono/7c693236-e0c1-40a3-8bd0-bb25e43f5bfc/index.mpd',
+			licensekey: 'c95ed4c44b0b4f7fa1c6ebbbbaab21a1:47635b8e885e19f2ccbdff078c207058',
 		},
 		anc: {
 			name: 'ANC',
