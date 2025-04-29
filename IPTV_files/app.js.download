@@ -34,7 +34,7 @@ document.addEventListener('DOMContentLoaded', function() {
 		const widthThreshold = window.outerWidth - window.innerWidth > threshold;
 		const heightThreshold = window.outerHeight - window.innerHeight > threshold;
 		if (widthThreshold || heightThreshold) {
-			window.location.href = 'https://cignalplaytv.vercel.app/'
+			window.location.href = 'https://rjtvmorante.netlify.app/'
 		}
 	};
 	devtools();
@@ -555,7 +555,7 @@ document.addEventListener('DOMContentLoaded', function() {
 	document.head.appendChild(progressBarStyle);
 	video.controls = false;
 	const player = new gowatch.Player(video);
-	video.addEventListener('pause', function() {
+	video.addEventListener('play', function() {
 		video.play()
 	});
 	player.addEventListener('buffering', function(event) {
