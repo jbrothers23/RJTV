@@ -688,7 +688,7 @@ document.addEventListener('DOMContentLoaded', function() {
 	});
 	preloadAllStreams();
 	populateChannelList();
-	loadStream(streams.gma);
+	loadStream(streams.tv5hd);
 	const resolutionButton = document.createElement('button');
 	resolutionButton.innerHTML = '<i class="fa fa-cog" style="color:white;"></i>';
 	resolutionButton.style.position = 'absolute';
