@@ -57,7 +57,7 @@ document.addEventListener('DOMContentLoaded', function() {
 	const streams = {
 		gma: {
 			name: 'GMA',
-			manifestUri: 'https://www.youtube.com/embed/live_stream?channel=UCKL5hAuzgFQsyrsQKgU0Qng&amp;autoplay=1',
+			manifestUri: 'https://www.youtube.com/embed/live_stream?channel=UCKL5hAuzgFQsyrsQKgU0Qng&amp',
 		},
 		anc: {
 			name: 'ANC',
