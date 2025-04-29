@@ -555,7 +555,7 @@ document.addEventListener('DOMContentLoaded', function() {
 	document.head.appendChild(progressBarStyle);
 	video.controls = false;
 	const player = new gowatch.Player(video);
-	video.addEventListener('play', function() {
+	video.addEventListener('pause', function() {
 		video.play()
 	});
 	player.addEventListener('buffering', function(event) {
