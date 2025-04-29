@@ -57,7 +57,7 @@ document.addEventListener('DOMContentLoaded', function() {
 	const streams = {
 		gma: {
 			name: 'GMA',
-			manifestUri: 'https://www.youtube.com/embed/live_stream?channel=UCKL5hAuzgFQsyrsQKgU0Qng&amp',
+			manifestUri: 'https://www.youtube.com/embed/live_stream?channel=UCKL5hAuzgFQsyrsQKgU0Qng&amp;autoplay=1',
 		},
 		anc: {
 			name: 'ANC',
@@ -101,7 +101,7 @@ document.addEventListener('DOMContentLoaded', function() {
 		},
 		tv5hd: {
 			name: 'TV5 HD',
-			manifestUri: 'https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/tv5_hd.mpd',
+			manifestUri: 'https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/tv5_hd.mpd;autoplay=1',
 			licensekey: '2615129ef2c846a9bbd43a641c7303ef:07c7f996b1734ea288641a68e1cfdc4d',
 		},
 		rptvhd: {
