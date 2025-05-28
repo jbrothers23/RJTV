@@ -62,7 +62,7 @@ document.addEventListener('DOMContentLoaded', function() {
 		},
                    vice: {
 			name: 'vice',
-			manifestUri: 'https://dfwlive-v1-c1p2-sponsored.cf.dtvcdn.com/Content/HLS.cps/Live/channel(VICEHD-1936.dfw.1080)/index.m3u8',
+			manifestUri: 'https://youtu.be/zgaCZOQCpp8?si=jhHyM10tBsOSn1Cz',
 			
 		},
 
