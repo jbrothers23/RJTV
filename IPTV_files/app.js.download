@@ -62,7 +62,7 @@ document.addEventListener('DOMContentLoaded', function() {
 		},
                    vice: {
 			name: 'vice',
-			manifestUri: 'https://youtu.be/zgaCZOQCpp8?si=jhHyM10tBsOSn1Cz',
+			manifestUri: 'https://youtube/zgaCZOQCpp8?si=jhHyM10tBsOSn1Cz',
 			
 		},
 			dzrhtv2: {
