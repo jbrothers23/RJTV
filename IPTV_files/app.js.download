@@ -66,6 +66,19 @@ document.addEventListener('DOMContentLoaded', function() {
 			
 		},
 
+
+
+{
+        name: 'Sari-Sari',
+        logo: 'https://i.imgur.com/MXxN1UO.png',
+        type: 'mpegdash',
+        manifestUri: 'https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/cg_sari_sari_sd.mpd',
+        clearKey: { '0a7ab3612f434335aa6e895016d8cd2d': 'b21654621230ae21714a5cab52daeb9d' },
+        category: "Local"
+      },
+
+
+
              inctv: {
 			name: 'inc tv',
 			manifestUri: 'https://199211.global.ssl.fastly.net/643cc12aa824db4374021c8c/live_95f6ac80dd6511ed9d08b12be56ae55e/index.m3u8',
