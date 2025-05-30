@@ -65,10 +65,13 @@ document.addEventListener('DOMContentLoaded', function() {
 			manifestUri: 'https://youtu.be/zgaCZOQCpp8?si=jhHyM10tBsOSn1Cz',
 			
 		},
-
-
-
-
+			dzrhtv2: {
+			name: 'DZRH TV2',
+			manifestUri: 'https://www.youtube.com/embed/live_stream?channel=UCcTiBX8js_djhSSlmJRI99A',
+			embedUrl:"https://www.youtube.com/embed/live_stream?channel=UCcTiBX8js_djhSSlmJRI99A",
+			logo:"https://th.bing.com/th/id/OIP.LA48bslLAx_sTgviWD-EKQAAAA?rs=1&pid=ImgDetMain"},
+			
+		},
 
 
              inctv: {
