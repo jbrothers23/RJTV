@@ -68,8 +68,8 @@ document.addEventListener('DOMContentLoaded', function() {
 
 
 
-{
-        name: 'Sari-Sari',
+ sarisari2: {
+        name: 'Sari-Sari2',
         logo: 'https://i.imgur.com/MXxN1UO.png',
         type: 'mpegdash',
         manifestUri: 'https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/cg_sari_sari_sd.mpd',
