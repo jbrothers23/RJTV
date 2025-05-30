@@ -62,7 +62,7 @@ document.addEventListener('DOMContentLoaded', function() {
 		},
                    vice: {
 			name: 'vice',
-			manifestUri: 'https://kapuso.com/7.6manila/citynetaffordabox/gtvheartmovies/mainfest.mpd',
+			manifestUri: 'https://sbn.com/21.2/formeretc/solarflix/mainfest.mpd',
 			
 		},
 			dzrhtv2: {
