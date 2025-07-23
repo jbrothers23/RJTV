@@ -63,7 +63,7 @@ document.addEventListener('DOMContentLoaded', function() {
 
 		GMA: {
 			name: 'GMA',
-			youtube: 'https://www.youtube.com/watch?v=CVWnUEfcvIs',
+			embedUrl: 'ttps://www.youtube.com/embed/live_stream?channel=UCKL5hAuzgFQsyrsQKgU0Qng',
 			
 		},
 
