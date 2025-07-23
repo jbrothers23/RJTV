@@ -61,9 +61,9 @@ document.addEventListener('DOMContentLoaded', function() {
 			
 		},
 
-		GMA: {
+		GMA3: {
 			name: 'GMA2',
-			embedUrl: 'ttps://www.youtube.com/embed/live_stream?channel=UCKL5hAuzgFQsyrsQKgU0Qng',
+			embedUrl: 'https://www.youtube.com/embed/live_stream?channel=UCKL5hAuzgFQsyrsQKgU0Qng',
 			
 		},
 
