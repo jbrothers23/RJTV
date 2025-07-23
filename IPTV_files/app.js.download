@@ -61,8 +61,8 @@ document.addEventListener('DOMContentLoaded', function() {
 			
 		},
 
-		cbsnewsdetroit2: {
-			name: 'cbs news detroit2',
+		GMA: {
+			name: 'GMA',
 			youtube: 'https://www.youtube.com/watch?v=CVWnUEfcvIs',
 			
 		},
