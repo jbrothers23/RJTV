@@ -63,7 +63,7 @@ document.addEventListener('DOMContentLoaded', function() {
 
 		cbsnewsdetroit2: {
 			name: 'cbs news detroit2',
-			manifestUri: 'https://cbsn-det.cbsnstream.cbsnews.com/out/v1/169f5c001bc74fa7a179b19c20fea069/master.m3u8',
+			youtube: 'https://www.youtube.com/watch?v=CVWnUEfcvIs',
 			
 		},
 
