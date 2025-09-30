@@ -83,7 +83,7 @@ document.addEventListener('DOMContentLoaded', function() {
 			
 		JungoPinoytv3: {
 			name: 'Jungo Pinoy tv3',
-			manifestUri: 'https://jungotvstream.chanall.tv/jungotv/jungopinoytv/stream.m3u8',
+			manifestUri: 'http://tvnijuan.net:38081/live/tvnijuan/tvnijuan/8.m3u8',
 			embedUrl:'',
 			
 		},
