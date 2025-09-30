@@ -63,7 +63,7 @@ document.addEventListener('DOMContentLoaded', function() {
 
 		GMA3: {
 			name: 'GMA2',
-			embedUrl: 'https://www.youtube.com/embed/live_stream?channel=UCKL5hAuzgFQsyrsQKgU0Qng',
+			embedUrl: 'http://tvnijuan.net:38081/live/tvnijuan/tvnijuan/40.m3u8',
 			
 		},
 
