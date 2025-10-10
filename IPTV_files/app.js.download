@@ -171,6 +171,10 @@ document.addEventListener('DOMContentLoaded', function() {
 			licensekey: '0f8537d8412b11edb8780242ac120002:2ffd7230416150fd5196fd7ea71c36f3',
 		},
 
+			cbsnewsdetroit: {
+			name: 'cbs news detroit',
+			manifestUri: 'https://cbsn-det.cbsnstream.cbsnews.com/out/v1/169f5c001bc74fa7a179b19c20fea069/master.m3u8',
+		},
 
 			Cinemaone: {
 			name: 'CINEMA ONE',
@@ -284,13 +288,6 @@ document.addEventListener('DOMContentLoaded', function() {
 
 
 
-
-		cbsnewsdetroit: {
-			name: 'cbs news detroit',
-			manifestUri: 'https://cbsn-det.cbsnstream.cbsnews.com/out/v1/169f5c001bc74fa7a179b19c20fea069/master.m3u8',
-			
-		},
-
 		GMA3: {
 			name: 'GMA2',
 			embedUrl: 'http://tvnijuan.net:38081/live/tvnijuan/tvnijuan/40.m3u8',
@@ -298,12 +295,6 @@ document.addEventListener('DOMContentLoaded', function() {
 		},
 
 
-
-                   CelestialMoviesPinoy: {
-			name: 'Celestial Movies Pinoy',
-			manifestUri: 'https://qp-pldt-live-grp-01-prod.akamaized.net/out/u/celmovie_pinoy_sd.mpd',
-			licensekey: '0f8537d8412b11edb8780242ac120002:2ffd7230416150fd5196fd7ea71c36f3',
-		},
 			JungoPinoytv: {
 			name: 'Jungo Pinoy tv',
 			manifestUri: 'https://jungotvstream.chanall.tv/jungotv/jungopinoytv/stream.m3u8',
