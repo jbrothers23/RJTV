@@ -225,30 +225,51 @@ document.addEventListener('DOMContentLoaded', function() {
 			manifestUri: 'https://pull-hls-live.jr365m.cc/stream/astromalaysia/discoveryasia/master.m3u8',
 		},
 
+			DiscoveryChannel: {
+			name: 'Discovery Channel',
+			manifestUri: 'https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/discovery/default/index.mpd',
+			licensekey: 'd9ac48f5131641a789328257e778ad3a:b6e67c37239901980c6e37e0607ceee6',
+		},
 
+			DisneyChannel: {
+			name: 'Disney Channel',
+			manifestUri: 'https://uselector.cdn.intigral-ott.net/DIS/DIS.isml/manifest.mpd',
+			licensekey: '72800c62fcf2bfbedd9af27d79ed35d6:b6ccb9facb2c1c81ebe4dfaab8a45195',
+		},
 
+			Disneyjr: {
+			name: 'Disney jr',
+			manifestUri: 'https://uselector.cdn.intigral-ott.net/DJR/DJR.isml/manifest.mpd',
+			licensekey: 'f5df57914a0922d5d5ed6b0a4af6290a:c62b10a180d1770a355b3c4cb6506ca0',
+		},
 
+			DisneyXD: {
+			name: 'Disney XD',
+			manifestUri: 'https://fl5.moveonjoy.com/DISNEY_XD/index.m3u8',
+		},
 
+			DreamworksHD: {
+			name: 'Dreamworks HD',
+			manifestUri: 'https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_dreamworks_hd1/default/index.mpd',
+			licensekey: '4ab9645a2a0a47edbd65e8479c2b9669:8cb209f1828431ce9b50b593d1f44079',
+		},
 
+			DreamworksTagalog: {
+			name: 'Dreamworks Tagalog',
+			manifestUri: 'https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_dreamworktag/default/index.mpd',
+			licensekey: '564b3b1c781043c19242c66e348699c5:d3ad27d7fe1f14fb1a2cd5688549fbab',
+		},
 
+			ESPN: {
+			name: 'ESPN',
+			manifestUri: 'https://gtv.fflame143.workers.dev/stream.m3u8',
+		},
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+			FashionTVHD: {
+			name: 'Fashion TV HD',
+			manifestUri: 'https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/fashiontvhd/default/index.mpd',
+			licensekey: '971ebbe2d887476398e97c37e0c5c591:472aa631b1e671070a4bf198f43da0c7',
+		},
 
 
 
