@@ -74,11 +74,18 @@ document.addEventListener('DOMContentLoaded', function() {
 			licensekey: '92032b0e41a543fb9830751273b8debd:03f8b65e2af785b10d6634735dbe6c11',
 		},
 
-
-
-
-
-
+			animexhidive: {
+			name: 'ANI X HIDIVE',
+			manifestUri: 'https://amc-anime-x-hidive-1-us.tablo.wurl.tv/playlist.m3u8',
+		},
+			animexhidive: {
+			name: 'ANI ONE',
+			manifestUri: 'https://amg19223-amg19223c9-amgplt0019.playout.now3.amagi.tv/playlist/amg19223-amg19223c9-amgplt0019/playlist.m3u8',	
+		},
+			animexhidive: {
+			name: 'ANI PLUS',
+			manifestUri: 'https://amg18481-amg18481c1-amgplt0352.playout.now3.amagi.tv/playlist/amg18481-amg18481c1-amgplt0352/playlist.m3u8',	
+		},
 
 
 
