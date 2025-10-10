@@ -220,8 +220,8 @@ document.addEventListener('DOMContentLoaded', function() {
 			licensekey: '0f853706412b11edb8780242ac120002:2157d6529d80a760f60a8b5350dbc4df',
 		},
 
-			DiscoveryAsia: {
-			name: 'DepEd Channel',
+			discoveryasia: {
+			name: 'DISCOVERY ASIA',
 			manifestUri: 'https://pull-hls-live.jr365m.cc/stream/astromalaysia/discoveryasia/master.m3u8',
 		},
 
