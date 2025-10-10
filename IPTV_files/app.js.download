@@ -296,8 +296,9 @@ document.addEventListener('DOMContentLoaded', function() {
 		},
 		hbohd: {
 			name: 'HBO HD',
-			manifestUri: 'https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/cg_hbohd.mpd',
+			manifestUri: 'https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_hbohd/default/index.mpd',
 			licensekey: 'd47ebabf7a21430b83a8c4b82d9ef6b1:54c213b2b5f885f1e0290ee4131d425b',
+
 		},
 		hitsmovies: {
 			name: 'HITS Movies',
