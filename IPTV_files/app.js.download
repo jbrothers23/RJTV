@@ -101,7 +101,7 @@ document.addEventListener('DOMContentLoaded', function() {
 		},
 
 			axn: {
-			name: 'AXN',
+			name: 'AXN(x)',
 			manifestUri: 'https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_axn_sd/default/index.mpd',
 			licensekey: 'fd5d928f5d974ca4983f6e9295dfe410:3aaa001ddc142fedbb9d5557be43792f',
 		},
