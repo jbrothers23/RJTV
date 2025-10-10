@@ -439,11 +439,27 @@ document.addEventListener('DOMContentLoaded', function() {
 			licensekey: 'aa48b28bd723f91214887df6ed9fad10:b5a3a800848120c843ae0fa68c09c261',
 		},
 
+			Lifetime: {
+			name: 'Lifetime',
+			manifestUri: 'https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/dr_lifetime/default/index.mpd',
+			licensekey: 'cf861d26e7834166807c324d57df5119:64a81e30f6e5b7547e3516bbf8c647d0',
+		},
 
+			KMovies: {
+			name: 'K-Movies',
+			manifestUri: 'https://7732c5436342497882363a8cd14ceff4.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Plex_NewMovies/playlist.m3u8',
+		},
 
+			LotusMacau: {
+			name: 'Lotus Macau',
+			manifestUri: 'https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/lotusmacau_prd/default/index.mpd',
+			licensekey: '60dc692e64ea443a8fb5ac186c865a9b:01bdbe22d59b2a4504b53adc2f606cc1',
+		},
 
-
-
+			MovieSphere: {
+			name: 'Movie Sphere',
+			manifestUri: 'https:\\jmp2.uk\rok-b5cde121f98257329346020e2a60295a.m3u8',
+		},
 
 
 
