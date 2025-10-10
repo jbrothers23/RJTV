@@ -191,9 +191,14 @@ document.addEventListener('DOMContentLoaded', function() {
 		},
 
 
-{name:"Cinemo",manifestUri:"https://d1bail49udbz1k.cloudfront.net/out/v1/3a895f368f4a467c9bca0962559efc19/index.mpd",clearKey:{aa8aebe35ccc4541b7ce6292efcb1bfb:"aab1df109d22fc5d7e3ec121ddf24e5f"}
-{name:"Cinemax",manifestUri:"https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_cinemax/default/index.mpd",clearKey:{b207c44332844523a3a3b0469e5652d7:"fe71aea346db08f8c6fbf0592209f955"}
-{name:"CCTV4",manifestUri:"https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/dr_cctv4/default/index.mpd",clearKey:{"0f8541ec412b11edb8780242ac120002":"6cf16c272b7357c48cd47061799a4963"}
+
+
+
+
+
+
+
+
 
 
 
