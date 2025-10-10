@@ -78,16 +78,39 @@ document.addEventListener('DOMContentLoaded', function() {
 			name: 'ANI X HIDIVE',
 			manifestUri: 'https://amc-anime-x-hidive-1-us.tablo.wurl.tv/playlist.m3u8',
 		},
+
 			animexhidive: {
 			name: 'ANI ONE',
 			manifestUri: 'https://amg19223-amg19223c9-amgplt0019.playout.now3.amagi.tv/playlist/amg19223-amg19223c9-amgplt0019/playlist.m3u8',	
 		},
+
 			animexhidive: {
 			name: 'ANI PLUS',
 			manifestUri: 'https://amg18481-amg18481c1-amgplt0352.playout.now3.amagi.tv/playlist/amg18481-amg18481c1-amgplt0352/playlist.m3u8',	
 		},
 
+			anc: {
+			name: 'ANC',
+			manifestUri: 'https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-anc-global-dash-abscbnono/index.mpd',
+			licensekey: '4bbdc78024a54662854b412d01fafa16:6039ec9b213aca913821677a28bd78ae',
+		},
 
+			aljazeera: {
+			name: 'AL JAZEERA',
+			manifestUri: 'https://live-hls-web-aje.getaj.net/AJE/index.m3u8',
+		},
+
+			axn: {
+			name: 'AXN',
+			manifestUri: 'https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_axn_sd/default/index.mpd',
+			licensekey: 'fd5d928f5d974ca4983f6e9295dfe410:3aaa001ddc142fedbb9d5557be43792f',
+		},
+
+			bbcearth: {
+			name: 'BBC EARTH',
+			manifestUri: 'https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/cg_bbcearth_hd1/default/index.mpd',
+			licensekey: '34ce95b60c424e169619816c5181aded:0e2a2117d705613542618f58bf26fc8e',
+		},
 
 
 
@@ -142,8 +165,8 @@ document.addEventListener('DOMContentLoaded', function() {
 		},
 
 
-		anc: {
-			name: 'ANC',
+		anc2: {
+			name: 'ANC2',
 			manifestUri: 'https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-anc-global-dash-abscbnono/index.mpd',
 			licensekey: '4bbdc78024a54662854b412d01fafa16:6039ec9b213aca913821677a28bd78ae',
 		},
@@ -403,8 +426,8 @@ document.addEventListener('DOMContentLoaded', function() {
 			manifestUri: 'https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_channelnewsasia.mpd',
 			licensekey: 'b259df9987364dd3b778aa5d42cb9acd:753e3dba96ab467e468269e7e33fb813',
 		},
-		aljazeera: {
-			name: 'Al Jazeera',
+		aljazeera2: {
+			name: 'All Jazeera2',
 			manifestUri: 'https://qp-pldt-live-grp-12-prod.akamaized.net/out/u/dr_aljazeera.mpd',
 			licensekey: '7f3d900a04d84492b31fe9f79ac614e3:d33ff14f50beac42969385583294b8f2',
 		},
