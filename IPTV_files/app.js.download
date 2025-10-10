@@ -451,7 +451,7 @@ document.addEventListener('DOMContentLoaded', function() {
 	loadingOverlay.style.display = 'flex';
 	loadingOverlay.style.justifyContent = 'center';
 	loadingOverlay.style.alignItems = 'center';
-	loadingOverlay.innerHTML = `<div class="circular-progress"><div class="circle"><div class="mask full"><div class="fill"></div></div><div class="mask half"><div class="fill"></div><div class="fill fix"></div></div></div><div class="inside-circle">0%</div></div>`;
+	loadingOverlay.innerHTML = `<div class="circular-progress"><div class="circle"><div class="mask full"><div class="fill"></div></div><div class="mask half"><div class="fill"></div><div class="fill fix"></div></div></div><div class="inside-circle">waiting</div></div>`;
 	uiContainer.appendChild(loadingOverlay);
 	const progressBarStyle = document.createElement('style');
 	progressBarStyle.innerHTML = ``;
@@ -591,7 +591,7 @@ document.addEventListener('DOMContentLoaded', function() {
 	});
 	preloadAllStreams();
 	populateChannelList();
-	loadStream(streams.tv5hd);
+	loadStream(streams.Cartoonnetwork);
 	const resolutionButton = document.createElement('button');
 	resolutionButton.innerHTML = '<i class="fa fa-cog" style="color:yellow;"></i>';
 	resolutionButton.style.position = 'absolute';
