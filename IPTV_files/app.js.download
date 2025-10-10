@@ -100,8 +100,8 @@ document.addEventListener('DOMContentLoaded', function() {
 			manifestUri: 'https://live-hls-web-aje.getaj.net/AJE/index.m3u8',
 		},
 
-			axn: {
-			name: 'AXN X',
+			axnxxx: {
+			name: 'AXN xXx',
 			manifestUri: 'https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_axn_sd/default/index.mpd',
 			licensekey: 'fd5d928f5d974ca4983f6e9295dfe410:3aaa001ddc142fedbb9d5557be43792f',
 		},
@@ -140,8 +140,8 @@ document.addEventListener('DOMContentLoaded', function() {
 		},
 
 
-			buko: {
-			name: 'BUKO',
+			bukoxxx: {
+			name: 'BUKO xXx',
 			manifestUri: 'https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/cg_buko_sd/default/index.mpd',
 			licensekey: 'd273c085f2ab4a248e7bfc375229007d:7932354c3a84f7fc1b80efa6bcea0615',
 		},
