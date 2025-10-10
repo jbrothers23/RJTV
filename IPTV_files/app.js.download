@@ -68,6 +68,12 @@ document.addEventListener('DOMContentLoaded', function() {
 			licensekey: '389497f9f8584a57b234e27e430e04b7:3b85594c7f88604adf004e45c03511c0',
 		},
 
+			animalplanetXXX: {
+			name: 'ANIMAL PLANET XXX',
+			manifestUri: 'https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/cg_animal_planet_sd.mpd',
+			licensekey: '436b69f987924fcbbc06d40a69c2799a:c63d5b0d7e52335b61aeba4f6537d54d',
+		},
+
 			animax: {
 			name: 'ANIMAX',
 			manifestUri: 'https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/cg_animax_sd_new/default/index.mpd',
@@ -100,8 +106,8 @@ document.addEventListener('DOMContentLoaded', function() {
 			manifestUri: 'https://live-hls-web-aje.getaj.net/AJE/index.m3u8',
 		},
 
-			axnxxx: {
-			name: 'AXN xXx',
+			axn: {
+			name: 'AXN',
 			manifestUri: 'https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_axn_sd/default/index.mpd',
 			licensekey: 'fd5d928f5d974ca4983f6e9295dfe410:3aaa001ddc142fedbb9d5557be43792f',
 		},
@@ -140,8 +146,8 @@ document.addEventListener('DOMContentLoaded', function() {
 		},
 
 
-			bukoxxx: {
-			name: 'BUKO xXx',
+			buko: {
+			name: 'BUKO',
 			manifestUri: 'https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/cg_buko_sd/default/index.mpd',
 			licensekey: 'd273c085f2ab4a248e7bfc375229007d:7932354c3a84f7fc1b80efa6bcea0615',
 		},
@@ -254,21 +260,8 @@ document.addEventListener('DOMContentLoaded', function() {
 		},
 
 
-		anc2: {
-			name: 'ANC2',
-			manifestUri: 'https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-anc-global-dash-abscbnono/index.mpd',
-			licensekey: '4bbdc78024a54662854b412d01fafa16:6039ec9b213aca913821677a28bd78ae',
-		},
-		cinemaone: {
-			name: 'CINEMA ONE',
-			manifestUri: 'https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-cinemaone-dash-abscbnono/index.mpd',
-			licensekey: '58d0e56991194043b8fb82feb4db7276:d68f41b59649676788889e19fb10d22c',
-		},
-		cinemo: {
-			name: 'CINEMO!',
-			manifestUri: 'https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-cinemo-dash-abscbnono/index.mpd',
-			licensekey: 'aa8aebe35ccc4541b7ce6292efcb1bfb:aab1df109d22fc5d7e3ec121ddf24e5f',
-		},
+
+
 		gmapinoytv: {
 			name: 'GMA PINOY TV',
 			manifestUri: 'https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-abscbn-gma-x7-dash-abscbnono/index.mpd',
@@ -320,11 +313,7 @@ document.addEventListener('DOMContentLoaded', function() {
 			manifestUri: 'https://qp-pldt-live-grp-07-prod.akamaized.net/out/u/ibc13_sd_new.mpd',
 			licensekey: '16ecd238c0394592b8d3559c06b1faf5:05b47ae3be1368912ebe28f87480fc84',
 		},
-		buko: {
-			name: 'Buko',
-			manifestUri: 'https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/cg_buko_sd.mpd',
-			licensekey: 'd273c085f2ab4a248e7bfc375229007d:7932354c3a84f7fc1b80efa6bcea0615',
-		},
+
 		sarisari: {
 			name: 'Sari-Sari',
 			manifestUri: 'https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/cg_sari_sari_sd.mpd',
@@ -424,11 +413,7 @@ document.addEventListener('DOMContentLoaded', function() {
 			manifestUri: 'https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_fashiontvhd.mpd',
 			licensekey: '971ebbe2d887476398e97c37e0c5c591:472aa631b1e671070a4bf198f43da0c7',
 		},
-		axn: {
-			name: 'AXN',
-			manifestUri: 'https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/cg_axn_sd.mpd',
-			licensekey: 'fd5d928f5d974ca4983f6e9295dfe410:3aaa001ddc142fedbb9d5557be43792f',
-		},
+
 		lifetimesd: {
 			name: 'Lifetime SD',
 			manifestUri: 'https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_lifetime.mpd',
@@ -505,21 +490,13 @@ document.addEventListener('DOMContentLoaded', function() {
 			manifestUri: 'https://qp-pldt-live-grp-05-prod.akamaized.net/out/u/bilyonaryoch.mpd',
 			licensekey: '227ffaf09bec4a889e0e0988704d52a2:b2d0dce5c486891997c1c92ddaca2cd2',
 		},
-		bloomberg: {
-			name: 'Bloomberg',
-			manifestUri: 'https://qp-pldt-live-grp-09-prod.akamaized.net/out/u/bloomberg_sd.mpd',
-			licensekey: 'ef7d9dcfb99b406cb79fb9f675cba426:b24094f6ca136af25600e44df5987af4',
-		},
+
 		cna: {
 			name: 'CNA',
 			manifestUri: 'https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_channelnewsasia.mpd',
 			licensekey: 'b259df9987364dd3b778aa5d42cb9acd:753e3dba96ab467e468269e7e33fb813',
 		},
-		aljazeera2: {
-			name: 'All Jazeera2',
-			manifestUri: 'https://qp-pldt-live-grp-12-prod.akamaized.net/out/u/dr_aljazeera.mpd',
-			licensekey: '7f3d900a04d84492b31fe9f79ac614e3:d33ff14f50beac42969385583294b8f2',
-		},
+
 		moonbugkids: {
 			name: 'Moonbug Kids',
 			manifestUri: 'https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/cg_moonbug_kids_sd.mpd',
@@ -590,16 +567,8 @@ document.addEventListener('DOMContentLoaded', function() {
 			manifestUri: 'https://qp-pldt-live-grp-01-prod.akamaized.net/out/u/arirang_sd.mpd',
 			licensekey: '13815d0fa026441ea7662b0c9de00bcf:2d99a55743677c3879a068dd9c92f824',
 		},
-		cctv4: {
-			name: 'CCTV 4',
-			manifestUri: 'https://qp-pldt-live-grp-12-prod.akamaized.net/out/u/dr_cctv4.mpd',
-			licensekey: 'b83566836c0d4216b7107bd7b8399366:32d50635bfd05fbf8189a0e3f6c8db09',
-		},
-		abcaustralia2: {
-			name: 'ABC Australia2',
-			manifestUri: 'https://qp-pldt-live-grp-10-prod.akamaized.net/out/u/dr_abc_aus.mpd',
-			licensekey: '389497f9f8584a57b234e27e430e04b7:3b85594c7f88604adf004e45c03511c0',
-		},
+
+
 		france24: {
 			name: 'France 24',
 			manifestUri: 'https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_france24.mpd',
@@ -615,16 +584,8 @@ document.addEventListener('DOMContentLoaded', function() {
 			manifestUri: 'https://qp-pldt-live-grp-04-prod.akamaized.net/out/u/bbcworld_news_sd.mpd',
 			licensekey: 'f59650be475e4c34a844d4e2062f71f3:119639e849ddee96c4cec2f2b6b09b40',
 		},
-		animalplanet: {
-			name: 'Animal Planet',
-			manifestUri: 'https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/cg_animal_planet_sd.mpd',
-			licensekey: '436b69f987924fcbbc06d40a69c2799a:c63d5b0d7e52335b61aeba4f6537d54d',
-		},
-		bbcearthhd: {
-			name: 'BBC Earth HD',
-			manifestUri: 'https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/cg_bbcearth_hd1.mpd',
-			licensekey: '34ce95b60c424e169619816c5181aded:0e2a2117d705613542618f58bf26fc8e',
-		},
+
+
 		discovery: {
 			name: 'Discovery Channel SD',
 			manifestUri: 'https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_discovery.mpd',
