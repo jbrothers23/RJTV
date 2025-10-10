@@ -196,16 +196,29 @@ document.addEventListener('DOMContentLoaded', function() {
 			licensekey: '0f8541ec412b11edb8780242ac120002:6cf16c272b7357c48cd47061799a4963',
 		},
 
+			ChannelNewsAsia: {
+			name: 'Channel News Asia',
+			manifestUri: 'https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/channelnewsasia/default/index.mpd',
+			licensekey: 'b259df9987364dd3b778aa5d42cb9acd:753e3dba96ab467e468269e7e33fb813',
+		},
 
+			cnninternational: {
+			name: 'CNN INTERNATIONAL',
+			manifestUri: 'https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_cnnhd/default/index.mpd',
+			licensekey: '900c43f0e02742dd854148b7a75abbec:da315cca7f2902b4de23199718ed7e90',
+		},
 
+			CRIMEINVESTIGATION: {
+			name: 'CRIME INVESTIGATION',
+			manifestUri: 'https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/crime_invest/default/index.mpd',
+			licensekey: '21e2843b561c4248b8ea487986a16d33:db6bb638ccdfc1ad1a3e98d728486801',
+		},
 
-
-
-
-
-
-
-
+			DepEd Channel: {
+			name: 'DepEd Channel',
+			manifestUri: 'https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/depedch_sd/default/index.mpd',
+			licensekey: '0f853706412b11edb8780242ac120002:2157d6529d80a760f60a8b5350dbc4df',
+		},
 
 
 
