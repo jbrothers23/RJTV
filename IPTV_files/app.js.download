@@ -450,7 +450,7 @@ document.addEventListener('DOMContentLoaded', function() {
 	loadingOverlay.style.display = 'flex';
 	loadingOverlay.style.justifyContent = 'center';
 	loadingOverlay.style.alignItems = 'center';
-	loadingOverlay.innerHTML = `<div class="circular-progress"><div class="circle"><div class="mask full"><div class="fill"></div></div><div class="mask half"><div class="fill"></div><div class="fill fix"></div></div></div><div class="inside-circle">WAIT</div></div>`;
+	loadingOverlay.innerHTML = `<div class="circular-progress"><div class="circle"><div class="mask full"><div class="fill"></div></div><div class="mask half"><div class="fill"></div><div class="fill fix"></div></div></div><div class="inside-circle">Loading...</div></div>`;
 	uiContainer.appendChild(loadingOverlay);
 	const progressBarStyle = document.createElement('style');
 	progressBarStyle.innerHTML = ``;
