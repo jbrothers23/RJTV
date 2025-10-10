@@ -275,12 +275,38 @@ document.addEventListener('DOMContentLoaded', function() {
 			licensekey: '971ebbe2d887476398e97c37e0c5c591:472aa631b1e671070a4bf198f43da0c7',
 		},
 
+			FoodNetworkHD: {
+			name: 'Food Network HD',
+			manifestUri: 'https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_foodnetwork_hd1/default/index.mpd',
+			licensekey: 'b7299ea0af8945479cd2f287ee7d530e:b8ae7679cf18e7261303313b18ba7a14',
+		},
 
+			GlobalTrekker: {
+			name: 'Global Trekker',
+			manifestUri: 'https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/globaltrekker/default/index.mpd',
+			licensekey: '5c26c24bce2942078cf6e35216632c2d:445887a1c0832ff457263d8bcadc993f',
+		},
 
+			GMA: {
+			name: 'GMA (Youtube Stream)',
+			manifestUri: 'https://www.youtube.com/embed/live_stream?channel=UCKL5hAuzgFQsyrsQKgU0Qng',
+		},
 
+			GMAPinoyTV: {
+			name: 'GMA Pinoy TV',
+			manifestUri: 'https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-abscbn-gma-x7-dash-abscbnono/7c693236-e0c1-40a3-8bd0-bb25e43f5bfc/index.mpd',
+			licensekey: 'c95ed4c44b0b4f7fa1c6ebbbbaab21a1:47635b8e885e19f2ccbdff078c207058',
+		},
 
+			GlobalFashionChannel: {
+			name: 'Global Fashion Channel',
+			manifestUri: 'https://gfcomnimedia-globalfashionchannel-1-eu.xiaomi.wurl.tv/playlist.m3u8',
+		},
 
-
+			hallypop: {
+			name: 'hallypop',
+			manifestUri: 'https://jungotvstream.chanall.tv/jungotv/hallypop/stream.m3u8',
+		},
 
 
 
