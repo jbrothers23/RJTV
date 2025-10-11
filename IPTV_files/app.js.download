@@ -461,7 +461,77 @@ document.addEventListener('DOMContentLoaded', function() {
 			manifestUri: 'https:\\jmp2.uk\rok-b5cde121f98257329346020e2a60295a.m3u8',
 		},
 
+			MPTV: {
+			name: 'MPTV',
+			manifestUri: 'https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/cg_mptv/default/index.mpd',
+			licensekey: '6aab8f40536f4ea98e7c97b8f3aa7d4e:139aa5a55ade471faaddacc4f4de8807',
+		},
 
+			Myx: {
+			name: 'Myx',
+			manifestUri: 'https://d24xfhmhdb6r0q.cloudfront.net/out/v1/e897a7b6414a46019818ee9f2c081c4f/index.mpd',
+			licensekey: 'f40a52a3ac9b4702bdd5b735d910fd2f:5ce1bc7f06b494c276252b4d13c90e51',
+		},
+
+			MTVLive: {
+			name: 'MTV Live',
+			manifestUri: 'https://linearjitp-playback.astro.com.my/dash-wv/linear/5014/default_ott.mpd',
+			licensekey: '3ac2542a4f7be746633db07647451710:22f964a6d6927ccdba482e775cdff190',
+		},
+
+			NATGEOWILD: {
+			name: 'NAT GEO WILD',
+			manifestUri: 'https://uselector.cdn.intigral-ott.net/NHD/NHD.isml/manifest.mpd',
+			licensekey: '276e56bc14095f327bbf0c936eb7b38c:276e56bc14095f327bbf0c936eb7b38c',
+		},
+
+			NBATVPhilippines: {
+			name: 'NBA TV Philippines',
+			manifestUri: 'https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cgnl_nba/default/index.mpd',
+			licensekey: 'c5e51f41ceac48709d0bdcd9c13a4d88:20b91609967e472c27040716ef6a8b9a',
+		},
+
+			NHKJAPAN: {
+			name: 'NHK JAPAN',
+			manifestUri: 'https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/dr_nhk_japan/default/index.mpd',
+			licensekey: '3d6e9d4de7d7449aadd846b7a684e564:0800fff80980f47f7ac6bc60b361b0cf',
+		},
+
+			Nickjr: {
+			name: 'Nick jr',
+			manifestUri: 'https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/dr_nickjr/default/index.mpd',
+			licensekey: 'bab5c11178b646749fbae87962bf5113:0ac679aad3b9d619ac39ad634ec76bc8',
+		},
+
+			Nickelodeon: {
+			name: 'Nickelodeon',
+			manifestUri: 'https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/dr_nickelodeon/default/index.mpd',
+			licensekey: '9ce58f37576b416381b6514a809bfd8b:f0fbb758cdeeaddfa3eae538856b4d72',
+		},
+
+			OneNewsHD: {
+			name: 'One News HD',
+			manifestUri: 'https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/onenews_hd1/default/index.mpd',
+			licensekey: 'd39eb201ae494a0b98583df4d110e8dd:6797066880d344422abd3f5eda41f45f',
+		},
+
+			OnePH: {
+			name: 'One PH',
+			manifestUri: 'https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/oneph_sd/default/index.mpd',
+			licensekey: '92834ab4a7e1499b90886c5d49220e46:a7108d9a6cfcc1b7939eb111daf09ab3',
+		},
+
+			OneSports: {
+			name: 'One Sports',
+			manifestUri: 'https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_onesports_hd/default/index.mpd',
+			licensekey: '53c3bf2eba574f639aa21f2d4409ff11:3de28411cf08a64ea935b9578f6d0edd',
+		},
+
+			OneSportsPlusHD: {
+			name: 'One Sports Plus HD',
+			manifestUri: 'https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_onesportsplus_hd1/default/index.mpd',
+			licensekey: '322d06e9326f4753a7ec0908030c13d8:1e3e0ca32d421fbfec86feced0efefda',
+		},
 
 
 
