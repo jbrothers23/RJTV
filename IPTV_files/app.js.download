@@ -725,6 +725,12 @@ document.addEventListener('DOMContentLoaded', function() {
 			licensekey: '07aa813bf2c147748046edd930f7736e:3bd6688b8b44e96201e753224adfc8fb',
 		},
 
+			WarnerTV: {
+			name: 'Warner TV',
+			manifestUri: 'https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_warnertvhd.mpd',
+			licensekey: '4503cf86bca3494ab95a77ed913619a0:afc9c8f627fb3fb255dee8e3b0fe1d71',
+		},
+
 
 
 
