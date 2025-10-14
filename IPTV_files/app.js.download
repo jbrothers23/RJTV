@@ -319,7 +319,7 @@ document.addEventListener('DOMContentLoaded', function() {
 
 			HBOSignature: {
 			name: 'HBO Signature',
-			manifestUri: '"https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_hbosign/default/index.mpd',
+			manifestUri: 'https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_hbosign/default/index.mpd',
 			licensekey: 'a06ca6c275744151895762e0346380f5:559da1b63eec77b5a942018f14d3f56f',
 		},
 
