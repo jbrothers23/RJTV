@@ -663,6 +663,12 @@ document.addEventListener('DOMContentLoaded', function() {
 			licensekey: '5675d85ce6754ba6aa8f6acc4660f76f:140bfb365cf143c349f68699238a610c',
 		},
 
+			TFC: {
+			name: 'TFC',
+			manifestUri: 'https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-tfcasia-dash-abscbnono/7045bc3c-9492-42d4-974e-a3b217776e57/index.mpd',
+			licensekey: '9568cc84e1d944f38eac304517eab6fd:f12142af8f39b3bab79d3679d3665ebe',
+		},
+
 			Tennis: {
 			name: 'Tennis+',
 			manifestUri: 'https://amg01935-amg01935c1-amgplt0352.playout.now3.amagi.tv/playlist/amg01935-amg01935c1-amgplt0352/playlist.m3u8',
