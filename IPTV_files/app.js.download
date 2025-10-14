@@ -905,7 +905,7 @@ document.addEventListener('DOMContentLoaded', function() {
 	});
 	preloadAllStreams();
 	populateChannelList();
-	loadStream(streams.Cartoonnetwork);
+	loadStream(streams.tv5hd);
 	const resolutionButton = document.createElement('button');
 	resolutionButton.innerHTML = '<i class="fa fa-cog" style="color:yellow;"></i>';
 	resolutionButton.style.position = 'absolute';
