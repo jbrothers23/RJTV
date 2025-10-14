@@ -242,7 +242,7 @@ document.addEventListener('DOMContentLoaded', function() {
 		},
 
 			DisneyjrXXX: {
-			name: 'Disney (NOT WORKING)',
+			name: 'Disney jr (NOT WORKING)',
 			manifestUri: 'https://uselector.cdn.intigral-ott.net/DJR/DJR.isml/manifest.mpd',
 			licensekey: 'f5df57914a0922d5d5ed6b0a4af6290a:c62b10a180d1770a355b3c4cb6506ca0',
 		},
@@ -718,6 +718,14 @@ document.addEventListener('DOMContentLoaded', function() {
 			manifestUri: 'https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/tv5_hd/default1/index.mpd',
 			licensekey: '2615129ef2c846a9bbd43a641c7303ef:07c7f996b1734ea288641a68e1cfdc4d',
 		},
+
+			VIVA: {
+			name: 'VIVA',
+			manifestUri: 'https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/viva_sd/default/index.mpd',
+			licensekey: '07aa813bf2c147748046edd930f7736e:3bd6688b8b44e96201e753224adfc8fb',
+		},
+
+
 
 
 	};
