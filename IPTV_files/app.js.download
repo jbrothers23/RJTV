@@ -666,7 +666,7 @@ document.addEventListener('DOMContentLoaded', function() {
 			licensekey: '5675d85ce6754ba6aa8f6acc4660f76f:140bfb365cf143c349f68699238a610c',
 		},
 
-			Tennis+: {
+			Tennis: {
 			name: 'Tennis+',
 			manifestUri: 'https://amg01935-amg01935c1-amgplt0352.playout.now3.amagi.tv/playlist/amg01935-amg01935c1-amgplt0352/playlist.m3u8',
 		},
