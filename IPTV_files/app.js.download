@@ -145,20 +145,17 @@ document.addEventListener('DOMContentLoaded', function() {
 			licensekey: 'ef7d9dcfb99b406cb79fb9f675cba426:b24094f6ca136af25600e44df5987af4',
 		},
 
-
 			buko: {
 			name: 'BUKO',
 			manifestUri: 'https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/cg_buko_sd/default/index.mpd',
 			licensekey: 'd273c085f2ab4a248e7bfc375229007d:7932354c3a84f7fc1b80efa6bcea0615',
 		},
 
-
 			Cartoonnetwork: {
 			name: 'CARTOON NETWORK',
 			manifestUri: 'https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cartoonnetworkhd/default/index.mpd',
 			licensekey: 'a2d1f552ff9541558b3296b5a932136b:cdd48fa884dc0c3a3f85aeebca13d444',
 		},
-
 
 			CartoonClassics: {
 			name: 'CARTOON CLASSICS',
