@@ -631,19 +631,124 @@ document.addEventListener('DOMContentLoaded', function() {
 			licensekey: '4b7a662d7132679630f3a3f1862a859c:0651bc37e705349a2848278ae3ad7bf4',
 		},
 
+			TAPSports: {
+			name: 'TAP Sports',
+			manifestUri: 'https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/dr_tapsports/default/index.mpd',
+			licensekey: 'eabd2d95c89e42f2b0b0b40ce4179ea0:0e7e35a07e2c12822316c0dc4873903f',
+		},
 
+			TapMovies: {
+			name: 'Tap Movies',
+			manifestUri: 'https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_tapmovies_hd1/default/index.mpd',
+			licensekey: '71cbdf02b595468bb77398222e1ade09:c3f2aa420b8908ab8761571c01899460',
+		},
 
+			TapMovies: {
+			name: 'Tap Movies',
+			manifestUri: 'https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_tapmovies_hd1/default/index.mpd',
+			licensekey: '71cbdf02b595468bb77398222e1ade09:c3f2aa420b8908ab8761571c01899460',
+		},
 
+			TAPTV: {
+			name: 'TAP TV',
+			manifestUri: 'https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/cg_taptv_sd/default/index.mpd',
+			licensekey: 'f6804251e90b4966889b7df94fdc621e:55c3c014f2bd12d6bd62349658f24566',
+		},
 
+			TapActionFlix: {
+			name: 'Tap Action Flix',
+			manifestUri: 'https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/cg_tapactionflix_hd1/default/index.mpd',
+			licensekey: 'bee1066160c0424696d9bf99ca0645e3:f5b72bf3b89b9848de5616f37de040b7',
+		},
 
+			Teleradyo: {
+			name: 'Teleradyo',
+			manifestUri: 'https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-teleradyo-dash-abscbnono/index.mpd',
+			licensekey: '47c093e0c9fd4f80839a0337da3dd876:50547394045b3d047dc7d92f57b5fb33',
+		},
 
+			TECHSTORM: {
+			name: 'TECH STORM',
+			manifestUri: 'https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/dr_tech_storm/default/index.mpd',
+			licensekey: '5675d85ce6754ba6aa8f6acc4660f76f:140bfb365cf143c349f68699238a610c',
+		},
 
+			Tennis+: {
+			name: 'Tennis+',
+			manifestUri: 'https://amg01935-amg01935c1-amgplt0352.playout.now3.amagi.tv/playlist/amg01935-amg01935c1-amgplt0352/playlist.m3u8',
+		},
+
+			Thrill: {
+			name: 'Thrill',
+			manifestUri: 'https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/cg_thrill_sd/default/index.mpd',
+			licensekey: '928114ffb2394d14b5585258f70ed183:a82edc340bc73447bac16cdfed0a4c62',
+		},
+
+			TMC: {
+			name: 'TMC',
+			manifestUri: 'https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/cg_tagalogmovie/default/index.mpd',
+			licensekey: '96701d297d1241e492d41c397631d857:ca2931211c1a261f082a3a2c4fd9f91b',
+		},
+
+			TravelChannel: {
+			name: 'Travel Channel',
+			manifestUri: 'https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/travel_channel_sd/default/index.mpd',
+			licensekey: 'f3047fc13d454dacb6db4207ee79d3d3:bdbd38748f51fc26932e96c9a2020839',
+		},
+
+			TrueFMTV: {
+			name: 'Travel Channel',
+			manifestUri: 'https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/truefm_tv/default/index.mpd',
+			licensekey: '0559c95496d44fadb94105b9176c3579:40d8bb2a46ffd03540e0c6210ece57ce',
+		},
+
+			TVNMovies(Tagalog): {
+			name: 'TVN Movies (Tagalog)',
+			manifestUri: 'https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_tvnmovie/default/index.mpd',
+			licensekey: '2e53f8d8a5e94bca8f9a1e16ce67df33:3471b2464b5c7b033a03bb8307d9fa35',
+		},
+
+			TVN: {
+			name: 'TVN Movies (Tagalog)',
+			manifestUri: 'https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_tvnpre/default/index.mpd',
+			licensekey: 'e1bde543e8a140b38d3f84ace746553e:b712c4ec307300043333a6899a402c10',
+		},
+
+			TVUP: {
+			name: 'TVN Movies (Tagalog)',
+			manifestUri: 'https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/tvup_prd/default/index.mpd',
+			licensekey: '83e813ccd4ca4837afd611037af02f63:a97c515dbcb5dcbc432bbd09d15afd41',
+		},
+
+			TVUP: {
+			name: 'TVN Movies (Tagalog)',
+			manifestUri: 'https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/tvup_prd/default/index.mpd',
+			licensekey: '83e813ccd4ca4837afd611037af02f63:a97c515dbcb5dcbc432bbd09d15afd41',
+		},
 
 			tv5hd: {
 			name: 'TV5 HD',
 			manifestUri: 'https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/tv5_hd/default1/index.mpd',
 			licensekey: '2615129ef2c846a9bbd43a641c7303ef:07c7f996b1734ea288641a68e1cfdc4d',
-},
+		},
+
+			UAAPVarsity: {
+			name: 'UAAP Varsity',
+			manifestUri: 'https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_uaap_cplay_sd/default/index.mpd',
+			licensekey: '95588338ee37423e99358a6d431324b9:6e0f50a12f36599a55073868f814e81e',
+		},
+
+			VIVA: {
+			name: 'VIVA',
+			manifestUri: 'https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/viva_sd/default/index.mpd',
+			licensekey: '07aa813bf2c147748046edd930f7736e:3bd6688b8b44e96201e753224adfc8fb',
+		},
+
+			WarnerTV: {
+			name: 'Warner TV',
+			manifestUri: 'https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_warnertvhd.mpd',
+			licensekey: '4503cf86bca3494ab95a77ed913619a0:afc9c8f627fb3fb255dee8e3b0fe1d71',
+		},
 
 
 
