@@ -1,0 +1,91 @@
+body{ padding: 0; margin: 0; font-family: Arial, Helvetica, sans-serif; font-size: 16px; line-height: 1.6em; color: #fff; height: 100vh; position: relative; background: rgb(0,0,0); background: linear-gradient(180deg, rgba(0,0,0,1) 60%, rgba(23,23,23,1) 100%); }
+body.not-found{ background: #f6f6f6 !important; color: #000;}
+.mg-3mb3d{ position: absolute; top: 0; left: 0; right: 0; bottom: 0;}
+.mg3-player iframe, #fix-area, #megacloud-player{ width: 100% !important; height: 100% !important; position: absolute; z-index: 4; top: 0 !important; left: 0 !important; right: 0 !important; bottom: 0 !important;}
+.content-center{ position: absolute; top: 0; left: 0; right: 0; bottom: 0; display: flex; justify-content: center; align-items: center;}
+.content-center .text-large{ font-size: 2em; font-weight: bold; line-height: 1.5; margin-bottom: 1rem;}
+.content-center .cc-img img{ width: 160px; margin-bottom: 2rem;}
+.error-content{ width: 80%; max-width: 600px; display: block; text-align: center;}
+.loading-content{ width: 80%; max-width: 400px; display: block; text-align: center;}
+.loading-content .text{ margin-top: 2rem; font-size: 1.2em; line-height: 1.6;}
+/* loading */
+.load-circle {
+    display: inline-block;
+    position: relative;
+    width: 80px;
+    height: 80px;
+    transform: scale(1.2);
+}
+.load-circle div {
+    position: absolute;
+    border: 4px solid #fff;
+    opacity: 1;
+    border-radius: 50%;
+    animation: load-circle 1s cubic-bezier(0, 0.2, 0.8, 1) infinite;
+}
+.load-circle div:nth-child(2) {
+    animation-delay: -0.5s;
+}
+@keyframes load-circle {
+    0% {
+        top: 36px;
+        left: 36px;
+        width: 0;
+        height: 0;
+        opacity: 0;
+    }
+    4.9% {
+        top: 36px;
+        left: 36px;
+        width: 0;
+        height: 0;
+        opacity: 0;
+    }
+    5% {
+        top: 36px;
+        left: 36px;
+        width: 0;
+        height: 0;
+        opacity: 1;
+    }
+    100% {
+        top: 0px;
+        left: 0px;
+        width: 72px;
+        height: 72px;
+        opacity: 0;
+    }
+}
+
+@media screen and (max-height: 320px){
+    body{ font-size: 14px; line-height: 1.4;}
+    .content-center .cc-img img{ width: 100px; margin-bottom: 10px;}
+    .content-center .text-large{ margin-bottom: .5rem; font-size: 1.4em;}
+    .load-circle{ transform: scale(1);}
+    .loading-content .text{ margin-top: 1rem;}
+}
+
+[button="download-button"] .jw-icon {width:100%}
+
+.botright{position: absolute; z-index: 90; bottom: 120px; right: 60px; font-family: Arial, Helvetica, sans-serif;}
+.botright .zbtn{ display: inline-block; font-size: 16px; font-weight: bold; outline: none; text-decoration: none !important; padding: 12px 15px; line-height: 1; border: 2px solid #fff !important; box-shadow: 0 0 10px 0 rgba(0,0,0,.5); border-radius: 6px; background-color: #fff; color: #000 !important;}
+.botright .zbtn-outline{ background-color: transparent !important; color: #fff !important; text-shadow: 0 0 3px #000 !important;}
+.botright .zbtn{ margin-left: 6px}
+@media screen and (max-width: 1279px){
+    .botright{ right: 20px; bottom: 70px;}
+}
+@media screen and (max-width: 800px){
+    .botright .zbtn{ font-size: 14px !important; padding: 8px 10px !important; border-radius: 3px;}
+}
+
+.jw-slider-horizontal.jw-chapter-slider-time .jw-slider-container .jw-timesegment-background{ background-color: rgba(255,255,255,.2) !important;}
+.jw-slider-horizontal.jw-chapter-slider-time .jw-slider-container .jw-timesegment-buffered{ background-color: rgba(255,255,255,.1) !important;}
+.jw-slider-horizontal.jw-chapter-slider-time .jw-slider-container .jw-timesegment-progress{ background-color: #008da7 !important;}
+.jw-slider-time .jw-intro,.jw-slider-time .jw-outro {background-color: #fdd253;height: 10px;z-index:3; transform: translate(0,0) scale(1,.6); transition: transform 150ms ease-in-out;}
+.jw-slider-time:hover .jw-intro, .jw-slider-time:focus .jw-intro,.jw-slider-time:hover .jw-outro, .jw-slider-time:focus .jw-outro {transform: translate(0,0) scale(1,1) !important;}
+.jw-slider-container .jw-knob {z-index: 6;}
+.jw-slider-container .jw-progress {z-index: 5;}
+@media screen and (max-width: 1279px){
+    .jw-slider-time .jw-intro, .jw-slider-time .jw-outro{ height: 6px}
+}
+.jw-rightclick {display: none !important;}
