@@ -1,4 +1,0 @@
-;/*FB_PKG_DELIM*/
-
-__d("CometAltpayJsSdkIframeAllowedDomains.experimental",["cr:27561"],(function(a,b,c,d,e,f,g){"use strict";g["default"]=b("cr:27561")}),98);
-__d("CometAltpayJsSdkIframeAllowedDomainsJSModuleWrapper",["CometAltpayJsSdkIframeAllowedDomains"],(function(a,b,c,d,e,f,g){"use strict";g["default"]=c("CometAltpayJsSdkIframeAllowedDomains")}),98);
